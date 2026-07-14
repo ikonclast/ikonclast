@@ -10,7 +10,7 @@ Angehender **Wirtschaftsinformatiker (staatl. anerkannt)** aus **Heidelberg** mi
 **[notebooklm-clone](https://github.com/ikonclast/notebooklm-clone)** — dokumentengestützter KI-Assistent (RAG): Antworten ausschließlich aus eigenen Dokumenten, mit Quellen-Zitaten & Confidence, komplett lokal/DSGVO-konform (Ollama), Next.js + FastAPI, Docker Compose.
 
 ### 📫 Kontakt
-Am besten über [LinkedIn](https://www.linkedin.com/in/tobias-hinze-809793364) — Bewerbungsunterlagen auf Anfrage.
+Am besten über [LinkedIn](https://www.linkedin.com/in/tobias-hinze) — Bewerbungsunterlagen auf Anfrage.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
