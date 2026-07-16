@@ -14,6 +14,10 @@ Angehender **Wirtschaftsinformatiker (staatl. anerkannt)** aus **Heidelberg** mi
 Antworten ausschließlich aus eigenen Dokumenten, mit Quellen-Zitaten & Confidence, komplett lokal/DSGVO-konform (Ollama). Next.js + FastAPI, ChromaDB, Docker Compose.
 → *Öffentliche, datenschutzsaubere Demonstration desselben Ansatzes, den ich im Praktikum als on-prem Ticket-Assistenten (bge-m3 · Qdrant · Ollama) produktiv erprobt habe.*
 
+**[Rechnungserkennung](https://github.com/ikonclast/Rechnungserkennung)** — DSGVO-konforme Rechnungsextraktion (§14 UStG)
+Belegdaten deterministisch statt per LLM extrahiert — mit Confidence-Scoring, §14-Validierung, Human-in-the-Loop-Review-UI und DATEV-Export. Docling + FastAPI + PostgreSQL/MinIO, self-hosted.
+→ *Prozessautomatisierung für die Buchhaltung: auditierbar und ohne Halluzinationsrisiko bei Beträgen — bewusst kein Sprachmodell über den gebuchten Zahlen.*
+
 **[bob_der_botmeister](https://github.com/ikonclast/bob_der_botmeister)** — Plattform für quantitative Handelsstrategien
 Generierung, Backtesting, Monte-Carlo- & Walk-Forward-Validierung, Paper-Trading. Python, Docker, freqtrade.
 
